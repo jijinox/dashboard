@@ -1,0 +1,509 @@
+{
+  "settings": {
+    "weekStart": "monday",
+    "showOptionalPriorities": true,
+    "priorityColors": {
+      "urgent": "#ef4444",
+      "important": "#f59e0b",
+      "standard": "#3b82f6",
+      "low": "#94a3b8",
+      "blocked": "#a855f7",
+      "someday": "#22c55e"
+    },
+    "theme": "light"
+  },
+  "projects": [
+    {
+      "id": "inbox",
+      "name": "Inbox",
+      "color": "#64748b"
+    },
+    {
+      "id": "74da53fe86e0b-19b99116fce",
+      "name": "COAM",
+      "color": "#141414"
+    },
+    {
+      "id": "17aef788339ed-19b9912e317",
+      "name": "Famille <3",
+      "color": "#f396da"
+    },
+    {
+      "id": "e20bb94c236e3-19b9914d13f",
+      "name": "SPA : nath",
+      "color": "#fa9200"
+    },
+    {
+      "id": "467f57ef80db-19b9915897f",
+      "name": "StreetDogChallenge",
+      "color": "#f2ec3a"
+    },
+    {
+      "id": "341e17f8cd9e08-19b99227df0",
+      "name": "Recherche d'emploi",
+      "color": "#f20202"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "53b4dbc6eeed88-19b991463c7",
+      "title": "Montage vidéos @NATHALASPA",
+      "projectId": "e20bb94c236e3-19b9914d13f",
+      "priority": "important",
+      "date": "2026-01-07",
+      "done": false,
+      "notes": "Fixer un jour de la semaine et un créneau horaire pour monter la vidéo de Nathalaspa",
+      "repeat": "none"
+    },
+    {
+      "id": "de5a6ef45da4f8-19b9916228f",
+      "title": "Tourner vidéos SDC",
+      "projectId": "467f57ef80db-19b9915897f",
+      "priority": "someday",
+      "date": "2026-01-07",
+      "done": false,
+      "notes": "Sortir les soirs ou weekend pour faire les vidéos SDC"
+    },
+    {
+      "id": "c901c8a2497b38-19b9916a796",
+      "title": "Monter les vidéos SDC",
+      "projectId": "467f57ef80db-19b9915897f",
+      "priority": "standard",
+      "date": "2026-01-07",
+      "done": false,
+      "notes": "Trouver un jour pour monter les vidéos (quand contenu dispo)"
+    },
+    {
+      "id": "09d3adc51019d-19b9925d5e7",
+      "title": "Phase 1 : Mettre à jour le CV",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "date": "2026-01-09",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "id": "ec97d6b0d11568-19b99275e67",
+      "title": "Phase 1 : Lettre de motivation type",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "date": "2026-01-11",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "id": "cb0e4e5c948f6-19b9927e88f",
+      "title": "Phase 2 : CIBLAGE",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "date": "2026-01-14",
+      "done": false,
+      "notes": "Lister les sociétés cibles"
+    },
+    {
+      "id": "80734b4fd580b8-19b9928bbaf",
+      "title": "Phase 2 : Identifier recruteurs / contacts",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "date": "2026-01-16",
+      "done": false,
+      "notes": ""
+    },
+    {
+      "id": "f624ad7ab31be8-19b99299d00",
+      "title": "PHASE 3 : Envoyer une candidature",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "date": "2026-01-14",
+      "done": false,
+      "notes": "Envoyer 1 candidature",
+      "repeat": "none"
+    },
+    {
+      "id": "852c0de6f7a188-19b992a3640",
+      "title": "PHASE 3 : Adapter CV / LM à une offre",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "date": "2026-01-14",
+      "done": false,
+      "notes": "",
+      "repeat": "none"
+    }
+  ],
+  "habits": [
+    {
+      "id": "da930cc0a9bc88-19b9909ee55",
+      "name": "Vérifier les actus NOV INC et EOG (10-15min)",
+      "records": {}
+    },
+    {
+      "id": "032372f411ffa-19b990a7ffe",
+      "name": "5 à 15min de lecture",
+      "records": {
+        "2026-01-07": false
+      }
+    },
+    {
+      "id": "c57ae63995e9a8-19b990b13ce",
+      "name": "Sortir les chiens (3x/jour minimum)",
+      "records": {}
+    },
+    {
+      "id": "cb1dd41a88479-19b990bb9ee",
+      "name": "Temps avec ma fille (devoirs; jeu; éducation)",
+      "records": {}
+    },
+    {
+      "id": "1944502e46ca18-19b990c2e66",
+      "name": "BFM BUSINESS (30-60min matin)",
+      "records": {}
+    },
+    {
+      "id": "f1fc26474b96b-19b990e236e",
+      "name": "Sport (30-60min)",
+      "records": {}
+    },
+    {
+      "id": "8c8d2ac86a518-19b990e6c66",
+      "name": "SMS à Mamylou",
+      "records": {}
+    },
+    {
+      "id": "84d771f34c87c8-19b990eade6",
+      "name": "SMS à Mamour quand j'arrive au boulot",
+      "records": {}
+    },
+    {
+      "id": "f805d7e0bf11a8-19b990ef9a7",
+      "name": "DUOLINGO (1leçon minimum)",
+      "records": {}
+    },
+    {
+      "id": "2f7478a74dc1c-19b990f446e",
+      "name": "Recherche d'emploi",
+      "records": {}
+    }
+  ],
+  "goals": [
+    {
+      "id": "1fdcd11f170508-19b991bc14f",
+      "title": "Vidéos NATHALASPA",
+      "progress": 0,
+      "status": "planning",
+      "category": "perso",
+      "targetDate": "",
+      "nextStep": "Rythme régulier vidéos Nathalaspa",
+      "manualOverride": false,
+      "milestones": [
+        {
+          "id": "02b6c49d9b231-19b991be54e",
+          "text": "Trouver un créneau fixe",
+          "done": false
+        },
+        {
+          "id": "ace31d63120ca8-19b991c4ef6",
+          "text": "Tester sur 2 semaines",
+          "done": false
+        },
+        {
+          "id": "07388552da1758-19b991c6d1e",
+          "text": "Valider la routine",
+          "done": false
+        },
+        {
+          "id": "eaf43be0b842f-19b991dd167",
+          "text": "Monter les vidéos",
+          "done": false
+        },
+        {
+          "id": "bdd0427ea098f8-19b991debb7",
+          "text": "Publier régulièrement",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "50d5e7f61c545-19b991cc726",
+      "title": "StreetDogChallenge",
+      "progress": 0,
+      "status": "paused",
+      "category": "perso",
+      "targetDate": "",
+      "nextStep": "Développer Street Dog Challenge",
+      "manualOverride": false,
+      "milestones": [
+        {
+          "id": "827c45ab2219d8-19b991d125e",
+          "text": "Tourner plusieurs vidéos",
+          "done": false
+        },
+        {
+          "id": "57642f0b9bc84-19b991d6597",
+          "text": "Constituer un stock",
+          "done": false
+        },
+        {
+          "id": "72dc634f88c6e8-19b991d6857",
+          "text": "Monter les vidéos",
+          "done": false
+        },
+        {
+          "id": "6874749b985438-19b991d939e",
+          "text": "Publier régulièrement",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "8b16ffb8655b3-19b991e3bd6",
+      "title": "Temps en famille",
+      "progress": 0,
+      "status": "in_progress",
+      "category": "perso",
+      "targetDate": "",
+      "nextStep": "Moments réguliers en famille",
+      "manualOverride": false,
+      "milestones": [
+        {
+          "id": "9683b9408a3f88-19b991e777e",
+          "text": "Prévoir 1 sortie / mois",
+          "done": false
+        },
+        {
+          "id": "5164c899e30118-19b991e8ef7",
+          "text": "Bloquer la date",
+          "done": false
+        },
+        {
+          "id": "22ef1bca1013e8-19b991ea41e",
+          "text": "Y aller 😄",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "56777f11fd412-19b99242da7",
+      "title": "Trouver un emploi",
+      "progress": 0,
+      "status": "in_progress",
+      "category": "perso",
+      "targetDate": "",
+      "nextStep": "",
+      "manualOverride": false,
+      "milestones": [
+        {
+          "id": "eaf5ab2f1b93f-19b992d031f",
+          "text": "Phase 1 : complète",
+          "done": false
+        },
+        {
+          "id": "5c6ec1c9ec69f-19b992d0487",
+          "text": "Phase 2 : complète",
+          "done": false
+        },
+        {
+          "id": "7b82bb9a331448-19b992d05df",
+          "text": "Phase 3 : complète",
+          "done": false
+        },
+        {
+          "id": "4dc3aed45f8ed8-19b992d070f",
+          "text": "Phase 4 : complète",
+          "done": false
+        },
+        {
+          "id": "f2292988d04fe8-19b992d0817",
+          "text": "Phase 5 : complète",
+          "done": false
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "historyDay": null
+  },
+  "recurringRules": [
+    {
+      "id": "a4ed1ee739b42-19b991134b7",
+      "title": "Faire la fiche de PEDRO",
+      "projectId": "74da53fe86e0b-19b99116fce",
+      "priority": "urgent",
+      "notes": "faire le fichier avant la fin du mois de janvier",
+      "startDate": "2026-01-07",
+      "mode": "daily",
+      "weekdays": [],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {
+        "2026-01-07": false
+      }
+    },
+    {
+      "id": "a76d02eeb44fe-19b99129b9e",
+      "title": "Programmer la semaine de Roxane",
+      "projectId": "17aef788339ed-19b9912e317",
+      "priority": "important",
+      "notes": "se connecter au site internet de la ville et cocher les cases de présence (déjeuner, garderie, etc..)",
+      "startDate": "2026-01-11",
+      "mode": "weekly",
+      "weekdays": [
+        0
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {
+        "2026-01-11": false
+      }
+    },
+    {
+      "id": "c8611b71a845f-19b99177fee",
+      "title": "Publier vidéos Nathalaspa",
+      "projectId": "e20bb94c236e3-19b9914d13f",
+      "priority": "important",
+      "notes": "Publier les vidéos sur YT TK Insta dès 7h",
+      "startDate": "2026-01-09",
+      "mode": "weekly",
+      "weekdays": [
+        5
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "18bdf2d2d03048-19b9917fcde",
+      "title": "Publier vidéos SDC",
+      "projectId": "467f57ef80db-19b9915897f",
+      "priority": "important",
+      "notes": "Publier les vidéos sur YT TK Insta dès 7h",
+      "startDate": "2026-01-06",
+      "mode": "weekly",
+      "weekdays": [
+        2
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "14c53788336c8-19b9918e226",
+      "title": "Etudier des sociétés en Bourse pour COAM",
+      "projectId": "74da53fe86e0b-19b99116fce",
+      "priority": "important",
+      "notes": "Trouver des sociétés et étudier la micro et macro économie pour checklist ou non pour COAM",
+      "startDate": "2026-01-07",
+      "mode": "weekdays",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "8815723a63383-19b991a378e",
+      "title": "Appeler la famille / amis lointain",
+      "projectId": "17aef788339ed-19b9912e317",
+      "priority": "someday",
+      "notes": "Trouver un jour dans la semaine pour appeler la famille ou amis proche",
+      "startDate": "2026-01-10",
+      "mode": "weekly",
+      "weekdays": [
+        6
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "c3f0b99408b8d8-19b991a98ef",
+      "title": "Appeler Mamylou",
+      "projectId": "17aef788339ed-19b9912e317",
+      "priority": "someday",
+      "notes": "Dans la semaine, trouver un jour pour appeler Mamylou",
+      "startDate": "2026-01-07",
+      "mode": "weekly",
+      "weekdays": [
+        3
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "53a7a2308498b8-19b991b33be",
+      "title": "Ménage maison",
+      "projectId": "17aef788339ed-19b9912e317",
+      "priority": "important",
+      "notes": "Nettoyer la maison le samedi ou le dimanche voire le vendredi après midi ",
+      "startDate": "2026-01-10",
+      "mode": "weekly",
+      "weekdays": [
+        6
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "80e6cbe7dca5b8-19b992ab750",
+      "title": "PHASE 4 : Relancer candidatures",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "notes": "Chaque vendredi relancer les sociétés",
+      "startDate": "2026-01-09",
+      "mode": "weekly",
+      "weekdays": [
+        5
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "5a216ebfd754f-19b992c0900",
+      "title": "PHASE 4 : Bilan hebdomadaire",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "notes": "Bilan sur ma recherche d'emploi",
+      "startDate": "2026-01-09",
+      "mode": "weekly",
+      "weekdays": [
+        5
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    },
+    {
+      "id": "d9e2d6064a3c5-19b992c8b70",
+      "title": "PHASE 5 : Réseau",
+      "projectId": "341e17f8cd9e08-19b99227df0",
+      "priority": "important",
+      "notes": "contacter quelqu'un ",
+      "startDate": "2026-01-07",
+      "mode": "weekly",
+      "weekdays": [
+        3
+      ],
+      "interval": 1,
+      "until": "",
+      "exceptions": [],
+      "records": {}
+    }
+  ]
+}
